@@ -352,31 +352,31 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 </tr>
 <tr>
 <td>Showcase 1</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase1_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase1_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase1_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase1_ours.mp4" width="200" controls></video></td>
+<td><video src="./ahttps://github.com/user-attachments/assets/1abadc42-c17c-44c4-90e5-6be626315609" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/c8f41d00-0214-4230-9e69-d4eaf3357721" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/0c10b98c-064c-4efa-a919-68e8391adbc7" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/202b3ed8-23ca-44aa-a2ab-e409fb9f12fb" width="200" controls></video></td>
 </tr>
 <tr>
 <td>Showcase 2</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase2_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase2_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase2_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase2_ours.mp4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/5e717bb2-9332-43bb-903c-c88a25f8c33e" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/ab778dcb-cbce-47ae-a194-8afb1a2b728a" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/f69a35d5-abcd-4dff-af82-88573d243a5c" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/5934174d-f3b1-486c-b1bc-d8d16a065996" width="200" controls></video></td>
 </tr>
 <tr>
 <td>Showcase 3</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase3_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase3_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase3_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase3_ours.mp4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/0c00ca3d-64bc-4b7d-a02e-f6b9b70676da" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/69d4eb54-2440-4223-853b-2b3ae09be007" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/7c02692a-da94-434e-b5ca-587d832fefbd" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/fe31e304-3eff-431e-9507-0525ec7b370c" width="200" controls></video></td>
 </tr>
 <tr>
 <td>Showcase 4</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase4_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase4_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase4_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_20steps/showcase4_ours.mp4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/9272f558-a429-4d04-8230-8408a01bcf4f" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/042da5d9-cff1-4db8-82a1-f1369057942b" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/caf1b722-fa24-4ff5-a769-1d19278a477e" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/24e23118-c74d-4833-8513-d967f9bbc674" width="200" controls></video></td>
 </tr>
 </table>
 
@@ -392,17 +392,17 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 </tr>
 <tr>
 <td>Case 1</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case1_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case1_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case1_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case1_ours.mp4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/ee1a91bd-eb94-4643-8648-9817c770e4b7" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/a20f4409-420d-4607-89c0-0b49665d0f1c" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/3b6d4503-6d6d-4da7-86a8-7d1110155fe8" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/89567308-3c6f-4d58-a3a0-0916eecc6865" width="200" controls></video></td>
 </tr>
 <tr>
 <td>Case 2</td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case2_dancegrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case2_flowgrpo.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case2_cps.mp4" width="200" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Other_methods_40steps/case2_ours.mp4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/b7514548-872c-4270-b1b6-d21448294df4" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/8c0c4533-2568-4813-854c-4683d79d3a50" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/f08d988c-6eb0-457e-9da4-1462272d0d2a" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/fbac862a-b2a7-4447-9f7a-9d4db7b6782d" width="200" controls></video></td>
 </tr>
 </table>
 
@@ -413,41 +413,41 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 <th width="60">Case</th>
 <th>No KL</th>
 <th>Standard KL</th>
+<th>Stepwise</th>
 <th>Moving KL</th>
 <th>Dual Moving KL</th>
-<th>Stepwise</th>
 </tr>
 <tr>
 <td>Case 1</td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case1_no_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case1_std_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case1_moving_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case1_dual_mov_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case1_stepwise.mp4" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/a127569b-d5bf-4307-ad69-1f3d5d8c5d6f" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/77d63c2b-b3b0-4533-bfda-5af62dc87d28" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/8ccee8c2-719f-4b48-bf1c-b6cc3814e2d2" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/9dba5309-b75f-45da-b267-70b74cc5314c" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/56d639f9-b178-46f1-ac65-c2436f352568" width="160" controls></video></td>
 </tr>
 <tr>
 <td>Case 2</td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case2_no_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case2_std_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case2_moving_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case2_dual_mov_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case2_stepwise.mp4" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/539305f3-2ef8-414e-9288-93dab68269fc" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/5b9fbb31-d96d-416a-95ff-50f7af4f251e" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/65004bc4-b5b0-4d52-9189-eb87f1eb3c01" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/366bfdc8-8e07-4ec2-a83d-d43494487c26" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/c0c18e1f-9928-487b-aae4-77b04d494124" width="160" controls></video></td>
 </tr>
 <tr>
 <td>Case 3</td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case3_no_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case3_std_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case3_moving_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case3_dual_mov_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case3_stepwise.mp4" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/0549fd52-3dad-4e12-af11-9fd10c462a20" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d39b1cde-2b65-4138-80aa-a082752343d5" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/c7a6c30f-d540-4ab2-8f20-8220007fb565" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/8900d169-f224-4712-ad68-8ea9515f88ed" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/aad7b9d7-4b32-420d-a5ed-741afe024221" width="160" controls></video></td>
 </tr>
 <tr>
 <td>Case 4</td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case4_no_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case4_std_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case4_moving_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case4_dual_mov_kl.mp4" width="160" controls></video></td>
-<td><video src="./assets/Visual_Results/KL_Ablation/case4_stepwise.mp4" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/de12bdb8-dc61-4dad-af61-87313abc4ab9" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/f5d54530-a798-41ed-a911-05db9d3597ac" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/d5f44797-2487-4c0e-9707-e68db8e101ef" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/55f8cc37-d167-4caa-bee5-37aafcd85c5a" width="160" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/253c83f7-3ebf-4345-9cce-00f6701a4505" width="160" controls></video></td>
 </tr>
 </table>
 
