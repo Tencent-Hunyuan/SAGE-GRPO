@@ -1,0 +1,25 @@
+torchrun --nproc_per_node=8 post_train.py \
+  --pretrained_model_root ./ckpts \
+  --learning_rate 1e-5 \
+  --batch_size 2 \
+  --num_generations 4 \
+  --max_steps 10000 \
+  --output_dir ./outputs \
+  --enable_fsdp \
+  --enable_gradient_checkpointing \
+  --sp_size 2 \
+  --reward_checkpoint_mode "v3" \
+  --validate_at_step0 False \
+  --validate_video_length 121 \
+  --validation_timestep_shift 5.0 \
+  --use_grad_balancing True \
+  --enable_timestep_permutation True \
+  --sde_type "sage_grpo" \
+  --kl_weight 1e-5 \
+  --kl_coef 1e-7 \
+  --use_moving_KL True \
+  --update_ref_model_step 10 \
+  --use_dual_kl True \
+  --dual_kl_moving_weight 1.0 \
+  --dual_kl_step_weight 0.1 \
+  --reference_mode_offload True

@@ -1,0 +1,1 @@
+bash scripts/post_train/pdsh_train.sh "scripts/post_train/train_grpo.sh"
