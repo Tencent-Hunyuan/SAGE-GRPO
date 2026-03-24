@@ -303,8 +303,6 @@ torchrun --nproc_per_node=8 post_train.py \
 All visual results are under `assets/Visual_Results/`.  
 For a cleaner and fully curated presentation, please visit the project webpage: [SAGE-GRPO Webpage](https://dungeonmassster.github.io/SAGE-GRPO-Page/).
 
-<summary><b>Click to expand visualization results</b></summary>
-
 ### 1. Compare with Baseline
 
 <table>
