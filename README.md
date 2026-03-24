@@ -352,7 +352,7 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 </tr>
 <tr>
 <td>Showcase 1</td>
-<td><video src="./ahttps://github.com/user-attachments/assets/1abadc42-c17c-44c4-90e5-6be626315609" width="200" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/1abadc42-c17c-44c4-90e5-6be626315609" width="200" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/c8f41d00-0214-4230-9e69-d4eaf3357721" width="200" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/0c10b98c-064c-4efa-a919-68e8391adbc7" width="200" controls></video></td>
 <td><video src="https://github.com/user-attachments/assets/202b3ed8-23ca-44aa-a2ab-e409fb9f12fb" width="200" controls></video></td>
