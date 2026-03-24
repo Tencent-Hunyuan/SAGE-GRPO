@@ -316,24 +316,24 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 </tr>
 <tr>
 <td>Case 1</td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case1_baseline.mp4" width="320" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case1_ours_full.mp4" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/4ec4bf8a-f5d4-478b-b58f-534894c21129" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/196019ac-89c8-4752-8e95-11b028453552" width="320" controls></video></td>
 </tr>
 <tr>
 <td colspan="3"><b>Prompt:</b> The scene opens on a medium, low-angle shot of a teenage boy on an empty, red-surfaced running track during sunset. He is positioned on the right third of the frame, having just completed an intense sprint. He wears a striking neon green athletic jacket, unzipped to reveal a dark shirt underneath, and black running shorts. His body is bent sharply at the waist, his hands pressed firmly onto his knees for support as he struggles to recover. His dark, curly hair is damp with sweat, which also beads on his forehead and temples. His chest rises and falls rapidly and deeply, and with each ragged exhalation, a faint mist of his breath is visible in the cooling air, illuminated by the strong backlight from the setting sun. The sun, low on the horizon, casts long shadows and bathes the scene in a warm, orange glow, creating a cinematic lens flare that streaks across the frame. After a few moments of labored breathing, he slowly and painfully straightens his posture, his eyes remaining fixed on the track ahead with a look of fierce determination mixed with utter exhaustion.</td>
 </tr>
 <tr>
 <td>Case 2</td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case2_baseline.mp4" width="320" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case2_ours_full.mp4" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/7f3febec-d388-47ea-b6cc-a4e795449ad8" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/018d4730-4270-4d8e-a6f7-57f1140d2ac0" width="320" controls></video></td>
 </tr>
 <tr>
 <td colspan="3"><b>Prompt:</b> The scene opens on a tranquil, sun-drenched meadow in the late afternoon. An eye-level full shot frames Isaac Newton, a man with long hair dressed in simple 17th-century clothing, sitting at the base of a large, gnarled apple tree. He leans against the trunk, positioned according to the rule of thirds, creating a sense of balance and space. Dappled sunlight streams through the leafy canopy, casting soft, moving shadows on the ground. Newton is completely absorbed in thought, his gaze distant and unfocused. A gentle breeze rustles the leaves. High above him, a ripe red apple loosens from its stem. It drops silently at first, then lands with a distinct 'thump' on top of Newton's head. He flinches, startled out of his deep thoughts, and instinctively raises a hand to the point of impact. His eyes dart upwards towards the branches, then scan the ground around him. He spots the offending red apple lying in the grass. His initial annoyance gives way to curiosity as he reaches down, picks it up, and holds it in his palm. He turns it over, examining it, and his expression slowly transforms into one of profound, dawning realization, the genesis of a revolutionary idea.</td>
 </tr>
 <tr>
 <td>Case 3</td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case3_baseline.mp4" width="320" controls></video></td>
-<td><video src="./assets/Visual_Results/Compare_with_Baseline/case3_ours_full.mp4" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/4989d8cd-8484-4b99-98c5-2fa4d73235d9" width="320" controls></video></td>
+<td><video src="https://github.com/user-attachments/assets/b6e1336e-2eb4-4a6e-8fae-3349edbe5152" width="320" controls></video></td>
 </tr>
 <tr>
 <td colspan="3"><b>Prompt:</b> The scene opens with a stunning wide shot, filmed in slow motion from a low angle. Five children, a diverse group of boys and girls aged between six and ten, are running exuberantly across a vast field. The field is filled with tall, golden-yellow grass that sways gently in the breeze and reaches their waists. It's the golden hour, and the setting sun, positioned behind the children, creates a brilliant backlight. This light forms a radiant halo around their hair and outlines their bodies, separating them from the lush background. Dust motes and pollen kicked up by their running feet dance and sparkle in the sunbeams. The children are spread out, yet moving together as a group from right to left across the frame. Their faces are alight with pure joy; mouths are open in laughter, and their eyes are bright with excitement. One girl with long blonde pigtails leads the pack, looking back over her shoulder with a wide grin. A boy in a red t-shirt leaps playfully into the air. The slow-motion effect accentuates every detail: the bounce of their hair, the flowing fabric of their clothes, and the effortless grace of their youthful movements. The sky above is a soft, clear blue, providing a cool contrast to the warm tones of the field below. The atmosphere is overwhelmingly joyful, nostalgic, and evocative of the perfect, endless days of summer childhood.</td>
