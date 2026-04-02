@@ -451,7 +451,7 @@ For a cleaner and fully curated presentation, please visit the project webpage: 
 ## Acknowledgements
 
 - Base model and inference/training foundation: [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo)
-- Reward model: [VideoReward](https://github.com/KwaiVGI/VideoReward)
+- Reward model: [VideoAlign](https://github.com/KwaiVGI/VideoAlign)
 - Baseline algorithms: [FlowGRPO](https://github.com/yifan123/flow_grpo), [DanceGRPO](https://github.com/XueZeyue/DanceGRPO), [CPS](https://github.com/IamCreateAI/FlowCPS.git)
 
 ## Citation
